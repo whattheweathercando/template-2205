@@ -1,0 +1,23 @@
+{
+  "name": "template-2205",
+  "version": "",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "clean": "rm -rf ./dist/*",
+    "start": "npx @11ty/eleventy --serve --watch",
+    "build": "npx @11ty/eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "^2.0.1",
+    "airtable": "^0.11.4",
+    "dotenv": "^16.0.1",
+    "markdown-it": "^12.3.2"
+  }
+}
