@@ -2,5 +2,6 @@
 
 Basic website template  
 11ty  
-Git  
-(Airtable content) 
+Github
+ 
+(+ Airtable API) 
